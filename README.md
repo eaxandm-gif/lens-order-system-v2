@@ -80,3 +80,6 @@ Deploy ผ่าน Vercel/Netlify/Cloudflare Pages แล้วตั้ง Env
 - Payments
 - Picking/Packing/Shipping
 - Google Sheets sync
+
+
+Trigger new Vercel deployment
