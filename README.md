@@ -83,3 +83,4 @@ Deploy ผ่าน Vercel/Netlify/Cloudflare Pages แล้วตั้ง Env
 
 
 Trigger new Vercel deployment
+Apply environment variables to new build
